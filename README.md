@@ -1,5 +1,12 @@
 ## Hi there 👋
 
+## Jammin' 🤘 with the console 💻 cowboys 🤠 in cyberspace 🌐
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=kubernetes,docker,containerd,crio,helm,podman,nomad,consul,vault,istio,linkerd,calico&scale=0.9&theme=light" />
+  </a>
+</p>
 <!--
 **onek23x/onek23x** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
